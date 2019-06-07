@@ -1,0 +1,4 @@
+\\madera\rd_publ\Projects\rubidium\Code\Firmware\LPRS10.git
+git clone https://github.com/thinkSRS/gpsdo_update
+
+git clone git://Madera/rd_publ/Projects/rubidium/Code/Firmware/LPRS10.git
